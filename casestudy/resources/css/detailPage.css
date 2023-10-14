@@ -1,0 +1,65 @@
+body {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.detail-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.detail-header {
+    text-align: center;
+}
+
+.detail-header img {
+    max-width: 100%;
+    border: 1px solid #ddd;
+}
+
+.category {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.created-at {
+    color: #999;
+    margin-top: 5px;
+}
+
+.detail-content {
+    margin-top: 20px;
+}
+
+.join-button {
+    text-align: center;
+    padding: 20px; /* İhtiyaca göre ayarlayabilirsiniz */
+}
+
+.join-button button {
+    color: #fff; /* Buton metni rengi */
+    background-color: #333; /* Buton arkaplan rengi */
+    border: none;
+    padding: 10px 20px; /* İhtiyaca göre ayarlayabilirsiniz */
+    border-radius: 5px; /* Köşeleri yuvarlama */
+    cursor: pointer;
+}
+
+.join-button button:hover {
+    background-color: #555; /* Butonun üzerine gelindiğinde arkaplan rengi */
+}

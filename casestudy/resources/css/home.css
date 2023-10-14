@@ -1,0 +1,37 @@
+body {
+    background-color: #e5e7eb;
+}
+.etkinlik-listesi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5%;
+}
+.etkinlik-karti {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: calc(25% - 40px);
+}
+.etkinlik-karti img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.etkinlik-karti h2 {
+    margin: 10px 0;
+    font-size: 24px;
+}
+.etkinlik-karti p {
+    font-size: 18px;
+    color: #6c757d;
+}
+.etkinlik-aciklama{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+}
