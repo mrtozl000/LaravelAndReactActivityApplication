@@ -138,7 +138,7 @@ This project is **MIT licensed**. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions, issues, or feedback, contact:
-- **Email:** your-email@example.com
+- **Email:** mrtozl000@gmail.com
 - **GitHub:** [https://github.com/mrtozl000](https://github.com/mrtozl000)
 
 ---
