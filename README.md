@@ -131,11 +131,6 @@ Contributions are welcome! Steps:
 
 ---
 
-## License
-This project is **MIT licensed**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 For questions, issues, or feedback, contact:
 - **Email:** mrtozl000@gmail.com
